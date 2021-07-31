@@ -14,12 +14,9 @@ I am a data scientist who is passionate about building models and using data vis
 
 **Talking about Personal Stuffs:**
 
-
 - 🔭 I’m currently working on [Data Science for Public Good Bootcamp-21 ](https://www.kodluyoruz.org/dspg/)
 - 🌱 I’m currently learning Data Analysis and Visualization with Python on DataQuest 
 If you need discount for registering on Dataquest. You can use [my referral link in DataQuest.](https://app.dataquest.io/referral-signup/d0rg8d1y/)
-
-
 
 </br>
 
@@ -35,7 +32,6 @@ No Activity tracked this Week
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oceanox14&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oceanox14&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
