@@ -12,7 +12,7 @@ I am a data scientist who is passionate about building models and using data vis
 
 
 
-*Talking about Personal Stuffs:*
+**Talking about Personal Stuffs:**
 
 
 - 🔭 I’m currently working on ...
