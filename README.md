@@ -14,7 +14,7 @@ I am a data scientist who is passionate about building models and using data vis
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on [Data Science for Public Good Bootcamp-21 ](https://www.kodluyoruz.org/dspg/)
+- 🔭 I’m currently student in [Data Science for Public Good Bootcamp-2021](https://www.kodluyoruz.org/dspg/)
 - 🌱 I’m currently learning Data Analysis and Visualization with Python on DataQuest 
 If you need discount for registering on Dataquest. You can use [my referral link in DataQuest.](https://app.dataquest.io/referral-signup/d0rg8d1y/)
 
