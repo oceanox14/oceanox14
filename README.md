@@ -15,7 +15,7 @@ I am a data scientist who is passionate about building models and using data vis
 **Talking about Personal Stuffs:**
 
 
-- 🔭 I’m currently working on [Data Science for Public Good Bootcamp-21 (https://www.kodluyoruz.org/dspg/)]
+- 🔭 I’m currently working on [Data Science for Public Good Bootcamp-21 ](https://www.kodluyoruz.org/dspg/)
 - 🌱 I’m currently learning [Data Analysis and Visualization with Python on DataQuest]
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
