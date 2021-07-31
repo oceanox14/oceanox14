@@ -8,7 +8,7 @@
 
 I am a data scientist who is passionate about building models and using data visualization techniques to solve business problems. I could help you with ecological, communal and human behaviors projects.
 
-<video width="370px" height="300px" align="right" alt="GIF" src="itcrowd.mp4"/>
+<img width="370px" height="300px" align="right" alt="GIF" src="https://giphy.com/embed/dbtDDSvWErdf2"/>
 
 
 
