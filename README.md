@@ -8,7 +8,7 @@
 
 I am a data scientist who is passionate about building models and using data visualization techniques to solve business problems. I could help you with ecological, communal and human behaviors projects.
 
-<img width="370px" height="300px" align="right" alt="GIF" src="https://media.giphy.com/media/dbtDDSvWErdf2/source.gif"/>
+<img width="370px" height="270px" align="right" alt="GIF" src="https://media.giphy.com/media/dbtDDSvWErdf2/source.gif"/>
 
 
 
@@ -32,7 +32,7 @@ No Activity tracked this Week
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oceanox14&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oceanox14&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img width="300px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oceanox14&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
